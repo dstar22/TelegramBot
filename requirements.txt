@@ -1,2 +1,4 @@
+python-3.6.1
 pyTelegramBotAPI
 requests
+youtube-dl
