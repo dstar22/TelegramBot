@@ -1,5 +1,5 @@
 #Intitialize YouTube downloader
-ydl = yt.YoutubeDL({'outtmpl': '%(id)s%(ext)s'})
+ydl = youtube_dl.YoutubeDL({'outtmpl': '%(id)s%(ext)s'})
 
 # works when /ytdl <link> is given
 @bot.message_handler(commands=['ytdl'])
