@@ -1,1 +1,1 @@
-bot: python3 YoutubeDL.py
+bot: python3 yt.py
